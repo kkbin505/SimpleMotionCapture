@@ -15,7 +15,7 @@ A real-time wireless 3D motion capture and visualization system designed for imm
 - `lightsaber_3d.py`: The main application featuring the 3D lightsaber, sounds, and trail effects.
 - `mocap_transmitter/`: PlatformIO project for the ESP32-S3 transmitter (connected to the sensor).
 - `mocap_receiver/`: PlatformIO project for the ESP32-S3 receiver (connected to the PC).
-- `assets/`: Audio files (`.wav`) for the lightsaber hum, ignition, and swing.
+- `assets/`: Audio files (`.wav`) for the lightsaber hum, ignition, and swing. Sound files :http://theforce.net/fanfilms/postproduction/soundfx/saberfx_fergo.asp
 
 ## 🛠 Setup & Installation
 

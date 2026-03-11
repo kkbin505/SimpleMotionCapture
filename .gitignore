@@ -48,6 +48,7 @@ Thumbs.db
 # Keep audio assets as they are source files in this repo structure
 # !*.wav
 # !*.mp3
+ *.log
 
 DFRobot_BMI160/
 Lightsaber/
