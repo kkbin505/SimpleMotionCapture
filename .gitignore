@@ -48,3 +48,12 @@ Thumbs.db
 # Keep audio assets as they are source files in this repo structure
 # !*.wav
 # !*.mp3
+
+DFRobot_BMI160/
+Lightsaber/
+development_cost.py
+cost_pie_chart.py
+debug_serial.py
+axis_calibration.py
+motion_capture_3d.py
+radar_chart.py
